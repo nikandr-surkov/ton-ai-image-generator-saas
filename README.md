@@ -56,7 +56,7 @@ This source code is a fully functional SaaS (Software as a Service) platform.
 
 ## 🛠️ Tech Stack & Architecture
 
-Built with the latest, most scalable technologies for 2025.
+Built with the latest, most scalable technologies for 2026. You can verify our modern dependency list in the [`package.json`](./package.json) file included in this repo.
 
 | Component | Technology | Description |
 | :--- | :--- | :--- |
